@@ -1,0 +1,14 @@
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\bin\Debug\net6.0\LibraryRepo.deps.json
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\bin\Debug\net6.0\LibraryRepo.runtimeconfig.json
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\bin\Debug\net6.0\LibraryRepo.dll
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\bin\Debug\net6.0\LibraryRepo.pdb
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.csproj.AssemblyReference.cache
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.AssemblyInfoInputs.cache
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.AssemblyInfo.cs
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.csproj.CoreCompileInputs.cache
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.dll
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\refint\LibraryRepo.dll
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.pdb
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\LibraryRepo.genruntimeconfig.cache
+C:\Users\ngmin\OneDrive\Máy tính\PRN211PE_FA22_TrialTest_NguyenVanHoangMinh\LibraryRepo\obj\Debug\net6.0\ref\LibraryRepo.dll
